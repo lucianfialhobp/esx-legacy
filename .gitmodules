@@ -1,0 +1,6 @@
+[submodule "vendor/server-data"]
+	path = vendor/server-data
+	url = https://github.com/citizenfx/cfx-server-data.git
+[submodule "vendor/mysql-async"]
+	path = vendor/mysql-async
+	url = https://github.com/brouznouf/fivem-mysql-async.git
